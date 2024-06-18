@@ -2,64 +2,64 @@
   "domain": "https://blog.checkitprocure.com/",
   "blogs": [
     {
-      id: 1,
-      title: "Learn the Proc360 Basics",
-      link: "learn-the-proc360-basics"
+      "id": 1,
+      "title": "Learn the Proc360 Basics",
+      "link": "learn-the-proc360-basics"
     },
     {
-      id: 2,
-      title: "How to Create an Order on Proc360",
-      link: "how-to-create-an-order-on-proc360"
+      "id": 2,
+      "title": "How to Create an Order on Proc360",
+      "link": "how-to-create-an-order-on-proc360"
     },
     {
-      id: 3,
-      title: "Learn How to Fund Your Proc360 Wallet",
-      link: "how-to-fund-your-proc360-wallet"
+      "id": 3,
+      "title": "Learn How to Fund Your Proc360 Wallet",
+      "link": "how-to-fund-your-proc360-wallet"
     },
     {
-      id: 4,
-      title: "Managing Your Proc360 Orders",
-      link: "managing-your-proc360-orders"
+      "id": 4,
+      "title": "Managing Your Proc360 Orders",
+      "link": "managing-your-proc360-orders"
     },
     {
-      id: 5,
-      title: "How to Make Payment on Proc360",
-      link: "how-to-make-payment-on-proc360"
+      "id": 5,
+      "title": "How to Make Payment on Proc360",
+      "link": "how-to-make-payment-on-proc360"
     },
     {
-      id: 6,
-      title: "How to Track Your Orders on Proc360",
-      link: "how-to-track-your-orders-on-proc360"
+      "id": 6,
+      "title": "How to Track Your Orders on Proc360",
+      "link": "how-to-track-your-orders-on-proc360"
     },
     {
-      id: 7,
-      title: "How to Ship Multiple Items Together With Proc360",
-      link: "how-to-ship-multiple-items-together-with-proc360"
+      "id": 7,
+      "title": "How to Ship Multiple Items Together With Proc360",
+      "link": "how-to-ship-multiple-items-together-with-proc360"
     },
     {
-      id: 8,
-      title: "How to Ship your Parcels with Proc360 - Manage your Parcel Shipments like a Pro",
-      link: "how-to-ship-your-parcels-with-proc360-manage-your-parcel-shipments-like-a-pro"
+      "id": 8,
+      "title": "How to Ship your Parcels with Proc360 - Manage your Parcel Shipments like a Pro",
+      "link": "how-to-ship-your-parcels-with-proc360-manage-your-parcel-shipments-like-a-pro"
     },
     {
-      id: 9,
-      title: "Requesting and Tracking Shipments",
-      link: ""
+      "id": 9,
+      "title": "Requesting and Tracking Shipments",
+      "link": ""
     },
     {
-      id: 10,
-      title: "Refer and Earn Money With Proc360",
-      link: "earn-money-back-with-proc360"
+      "id": 10,
+      "title": "Refer and Earn Money With Proc360",
+      "link": "earn-money-back-with-proc360"
     },
     {
-      id: 11,
-      title: "Proc360 Pricing",
-      link: "proc360-pricing"
+      "id": 11,
+      "title": "Proc360 Pricing",
+      "link": "proc360-pricing"
     },
     {
-      id: 12,
-      title: "Complete Guide on Shipping Goods from China to Nigeria",
-      link: "complete-guide-on-shipping-goods-from-china-to-nigeria"
+      "id": 12,
+      "title": "Complete Guide on Shipping Goods from China to Nigeria",
+      "link": "complete-guide-on-shipping-goods-from-china-to-nigeria"
     }
   ]
 }
