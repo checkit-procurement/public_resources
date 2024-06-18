@@ -1,6 +1,6 @@
 {
-  domain: "https://blog.checkitprocure.com/",
-  blogs: [
+  "domain": "https://blog.checkitprocure.com/",
+  "blogs": [
     {
       id: 1,
       title: "Learn the Proc360 Basics",
