@@ -1,0 +1,496 @@
+{
+    [
+      topic: 'General Questions',
+      questions: [
+        {
+          question: 'What is Proc360?',
+          answer: "Proc360 is your all-in-one solution for sourcing, procuring, and shipping goods from China to Nigeria. We handle everything from finding suppliers to managing customs clearance, making importing easier for your businesses.",
+        },
+        {
+          question: 'Is Proc360 free to use?',
+          answer: "Yes, the Proc360 app itself is free. You'll pay only for the services you use, such as procurement, shipping, and consolidation fees.",
+      },
+      {
+          question: 'Who can use Proc360?',
+          answer: "Proc360 is designed for small business owners and entrepreneurs. You don't need a business license to get started.",
+      },
+      {
+          question: 'Do I need a business license to use Proc360?',
+          answer: 'No, a business license is not required to use Proc360.',
+      },
+      {
+          question: 'Is Proc360 available on iPhone and Android?',
+          answer: 'Proc360 is currently a web app accessible on iPhone and Android phones.',
+      },
+      {
+          question: 'How do I sign up for a Proc360 account?',
+          answer: 'Visit the Proc360 website and click the signup link. Follow the on-screen instructions, enter your information, and verify your email address.',
+      },
+      {
+        question: 'Do I need a referral code to sign up?',
+        answer: "No, you don't need a referral code to create a Proc360 account. However, if another user referred you, input the referral code in the related section.",
+      },
+      {
+        question:
+          'Can I use Proc360 to import items from other countries besides China?',
+        answer:
+          "Currently, Proc360's primary focus is on importing goods from China. However, we may explore expanding to other countries in the future.",
+      },
+      {
+        question: "What are Proc360's business hours?",
+        answer: "Proc360's business hours are from 8:00 AM to 6:00 PM GMT +1.",
+      },
+      {
+        question: "Can I leave a review for Proc360's services?",
+        answer:
+          'Absolutely! Proc360 appreciates your feedback. You can leave a review [Provide link to review platform].',
+      },
+    ],
+  },
+  {
+    topic: 'Wallets and Funding',
+    questions: [
+      {
+        question: 'What payment methods does Proc360 accept?',
+        answer:
+          'Proc360 accepts local currencies (like Naira, Yuan, and Dollars) which are converted to CNY (Chinese Yuan) for in-app transactions.',
+      },
+      {
+        question: 'What currency are prices listed in?',
+        answer: 'All prices on Proc360 are listed in Chinese Yuan (CNY).',
+      },
+      {
+        question: 'How do I fund my Proc360 wallet?',
+        answer:
+          'You can fund your wallet using your preferred currency (Naira, Yuan, Dollars). The funds will be converted to CNY at the displayed exchange rate.',
+      },
+      {
+        question: 'In what currency are transactions made?',
+        answer:
+          'All transactions within the Proc360 app are conducted in Chinese Yuan (CNY).',
+      },
+      {
+        question: 'How do I update my payment information on Proc360?',
+        answer:
+          'Proc360 does not store your credit card information. To add funds to your Proc360 wallet, you can use direct bank transfers or PayStack.',
+      },
+      {
+        question: 'Are there any hidden fees associated with using Proc360?',
+        answer:
+          'No, Proc360 prioritizes transparency. All charges are clearly stated upfront, ensuring no hidden fees.',
+      },
+      {
+        question: 'Can I pay shipping fees using my wallet?',
+        answer:
+          'Yes, you can use your wallet balance to pay for shipping fees.',
+      },
+    ],
+  },
+  {
+    topic: 'Order Processing',
+    questions: [
+      {
+        question: 'How do I place a link order?',
+        answer:
+          'Navigate to your dashboard, click "Create an Order," then select "Link Order." Paste the product link, specify the quantity and any details (color, size), and submit your order.',
+      },
+      {
+        question: 'How long does it take for an order to be reviewed?',
+        answer:
+          'Link Order: Up to 8 hours during working hours. Picture Order: Up to 3 working days. Custom Order: Up to 5 working days (depending on the complexity of the order and whether you need to create custom designs or OEM).',
+      },
+      {
+        question: 'Can I cancel an order after I have placed it?',
+        answer:
+          'Unfortunately, orders cannot be canceled once payment is complete.',
+      },
+      {
+        question: 'Is there a minimum order value?',
+        answer:
+          'No, there is no minimum order value. However, there is a minimum service charge of 35 Chinese Yuan (CNY).',
+      },
+      {
+        question: 'Can I return or exchange an item?',
+        answer:
+          'Due to the complexities of international returns, Proc360 does not currently offer returns or exchanges. To ensure you receive exactly what you ordered, Proc360 emphasizes clear specifications before purchases are made.',
+      },
+      {
+        question: 'Can I place bulk orders through Proc360?',
+        answer:
+          'Proc360 is designed to handle a wide range of order sizes, including bulk orders. The consolidation feature allows you to combine multiple links or orders into a single shipment for convenience and potentially reduced costs.',
+      },
+      {
+        question: 'Does Proc360 offer discounts or promotions?',
+        answer:
+          'Yes, Proc360 frequently offers discounts and promotions. They also have a customer reward system that provides permanent discounts to users who reach certain spending milestones.',
+      },
+      {
+        question: 'How do I pay for my orders on the app?',
+        answer:
+          'All payments within the Proc360 app are made from your wallet. To fund your wallet, you can use either a direct bank transfer or PayStack.',
+      },
+      {
+        question: 'Can I pay my suppliers from the app?',
+        answer:
+          "No, suppliers cannot be paid directly from the app. Proc360 handles payments to suppliers on your behalf after you've placed your order.",
+      },
+      {
+        question:
+          'Is the amount on the invoice for both procurement and shipping?',
+        answer:
+          'The initial invoice for an order does not include shipping costs. It provides an estimated weight to help you calculate potential shipping fees. The final shipping fee is calculated after Proc360 receives and weighs the goods in their warehouse.',
+      },
+    ],
+  },
+  {
+    topic: 'Tracking Orders',
+    questions: [
+      {
+        question: 'How do I track my order?',
+        answer: `
+          <div>
+            <span>You can track your order within the Proc360 app:
+            </span>
+            <ol type="a" style="padding-left: 2rem;">
+              <li>Go to the app and locate the shipping truck icon on the upper right corner of the dashboard.</li>
+              <li>Click the icon to navigate to the tracking page.</li>
+              <li>Enter your order ID to track a specific order.</li>
+              <li>If you want to track a shipment (i.e., the progress of your international shipments), switch to the "Track Shipment" page and enter a shipment ID.</li>
+            </ol>
+          </div>
+        `,
+      },
+      {
+        question: 'How do I navigate on the app?',
+        answer:
+          'The Proc360 app is designed for easy navigation. The main sections (Dashboard, Orders, Parcels, Wallet, Settings, Referrals) can be accessed through the hamburger menu (three horizontal lines) on the top left corner of the screen. Within each section, clear buttons and instructions will guide you through various actions and functions. If you have any trouble, you can consult our FAQ section or contact our support team for assistance.',
+      },
+    ],
+  },
+  {
+    topic: 'Parcels',
+    questions: [
+      {
+        question: 'What is a parcel in Proc360?',
+        answer:
+          'A parcel is an individual package containing your purchased items from a supplier or an e-commerce app in China. You must have shared your unique Proc360 address with the supplier, and the supplier (or app) must have sent a parcel to your Proc360 address.',
+      },
+      {
+        question: 'How do I consolidate parcels?',
+        answer: `
+          <div>
+            <ol type="a" style="padding-left: 2rem;">
+              <li>Locate the tracking IDs for each parcel you want to combine. You can find the tracking ID either from the app you purchased from or from the supplier you purchased from.</li>
+
+              <li>Within the Proc360 app, go to the "Parcels" section and click "Add Parcels."</li>
+
+              <li>Enter each tracking ID in the designated field and click "Add."</li>
+
+              <li>Repeat for all parcels you want to consolidate.</li>
+
+              <li>Once finished, click "Submit for Review."</li>
+            </ol>
+          </div>
+        `,
+      },
+      {
+        question:
+          'Is there a limit to the number of parcels I can consolidate?',
+        answer:
+          'There is no limit to the number of parcels you can consolidate in a single order with Proc360.',
+      },
+      {
+        question:
+          'Can I add parcels to a consolidation order after I have submitted for review?',
+        answer:
+          "No, you can't. Once you have submitted a list of parcels for consolidation, you can no longer add parcels to that particular packing list. Additional parcels will be part of a different shipment. So make sure you have added all the parcels you intend to ship at once to your list before submitting. You can keep adding parcels to a list for as long as you like. We can keep your parcels safely in the warehouse for up to 60 days. Only submit a parcel list when you are ready to ship!",
+      },
+      {
+        question: 'Can I pay the shipping fee using my wallet?',
+        answer:
+          'Currently, no. Shipping fees with Proc360 need to be paid after your goods arrive at their warehouse.',
+      },
+      {
+        question:
+          'Can I make a procurement order and a consolidation order and have them ship together?',
+        answer:
+          'Yes. Even if you\'ve already placed a separate procurement order, you can still create a consolidation order and request to combine it with your procurement order. Here\'s how: Make a request in the "Special Request" section of the shipping form within the app asking that a certain order be packed together with the parcels you sent to your proc360 address. This way, you can combine your procurement order with additional items you purchased elsewhere into a single shipment.',
+      },
+    ],
+  },
+  {
+    topic: 'Shipments',
+    questions: [
+      {
+        question: 'How long does it take for orders to get to Nigeria?',
+        answer: `When you order from China with Proc360, the delivery time depends on four key factors: Find full information <a href="https://proc360.com/faq" target="_blank" style="color: #063982; text-decoration: none; font-weight: bold;">here</a>`,
+      },
+      {
+        question: 'What shipping methods does Proc360 offer?',
+        answer: `
+          <div>
+            <span>Proc360 currently offers two shipping methods:
+            </span>
+
+            <ol type="a" style="padding-left: 2rem;">
+              <li><strong>Air:</strong> This is the fastest option, taking approximately 7 days for normal goods and 14 days for special goods.</li>
+
+              <li><strong>Sea (Ocean):</strong> This is a more economical option, but takes longer.</li>
+            </ol>
+          </di>`,
+      },
+      {
+        question: 'How much does shipping cost?',
+        answer: `
+          <div>
+            <span>Shipping costs depend on the chosen method (air or sea) and the weight/volume of your order.
+            </span>
+
+            <ol type="a" style="padding-left: 2rem;">
+              <li><strong>Air:</strong> The average cost for air shipping is $8 per kilogram, but this can vary depending on weight and destination.</li>
+
+              <li><strong>Sea (Ocean):</strong> Costs are based on cubic meter volume, typically starting around $300 per cubic meter. You can ship as low as 0.1cbm for $30.</li>
+            </ol>
+
+            <span>We recommend using the upcoming shipping cost calculator for the most accurate estimate for your specific order.</span>
+          </di>`,
+      },
+      {
+        question: 'What happens if my package gets damaged during shipping?',
+        answer: `
+          <div>
+            <span>If your package is damaged during shipping, Proc360 will assess the situation and offer a solution based on the severity of the damage:
+            </span>
+
+            <ol type="a" style="padding-left: 2rem;">
+              <li><strong>Minor Damage:</strong> If the damage is minor and does not affect the functionality or usability of the item, Proc360 may offer a partial refund or discount on future purchases.</li>
+
+              <li><strong>Major Damage:</strong> If the damage is significant and renders the item unusable, Proc360 will provide a full refund for the value of the damaged item.</li>
+            </ol>
+
+            <span>To ensure your packages are protected during transit, Proc360 takes great care in packaging all items securely. In addition, you have the option to purchase shipping insurance through Proc360 for added peace of mind.</span>
+          </di>`,
+      },
+      {
+        question:
+          'Is it a must to add special requests when filling out shipping information?',
+        answer:
+          'No, it\'s not mandatory to add special requests when filling out shipping information. The "Special Requests" section is available if you have any specific instructions or preferences regarding packaging, labeling, or handling of your shipment.',
+      },
+      {
+        question: 'Are there restricted items for import through Proc360?',
+        answer: `
+          <div>
+            <span>Yes, there are certain items restricted from import through Proc360. A list of restricted items can be found below:
+            </span>
+
+            <ol type="a" style="padding-left: 2rem;">
+              <li>Any items containing battery (rechargeable battery or disposable batteries)</li>
+
+              <li>Food and other edible items such as chocolates, herbs  etc</li>
+
+              <li>Any item in powdery form such as sweeteners, nail glitters etc</li>
+
+              <li>Medicine and supplements such as vitamins, ointments etc</li>
+
+              <li>Any items in Liquid  form or containing liquids such as cosmetics, beauty products, oils, glue etc</li>
+
+              <li>Any items made of fragile materials like glass</li>
+            </ol>
+
+            <span>Restricted items can be shipped but have to be shipped either using the special goods air option or sea shipping option. Prohibited items cannot be shipped. Find the list of prohibited items <a href="https://proc360.com/faq" target="_blank" style="color: #063982; text-decoration: none;">here</a>.</span>
+          </di>`,
+      },
+      {
+        question: 'Can I pay the shipping fee using my wallet?',
+        answer:
+          'Currently, no. Shipping fees with Proc360 need to be paid after your goods arrive at their warehouse.',
+      },
+      {
+        question: 'Can I choose the shipping method for my order?',
+        answer:
+          'Yes, absolutely! You have the flexibility to select the shipping method that best suits your needs.',
+      },
+      {
+        question:
+          'What are the estimated shipping times for different destinations?',
+        answer: `
+          <div>
+            <span>Currently, Proc360 primarily serves Nigeria. Here are the estimated shipping times:
+            </span>
+
+            <ol type="a" style="padding-left: 2rem;">
+              <li><strong>Air Shipping:</strong> 7 days on average (may vary based on specific goods).</li>
+
+              <li><strong>Sea Shipping:</strong> [Insert estimated shipping time for sea freight].</li>
+            </ol>
+          </di>`,
+      },
+      {
+        question: 'Does Proc360 handle customs clearance for imported goods?',
+        answer:
+          'Yes, Proc360 handles all customs clearance procedures on your behalf. You do not need to provide any additional documentation; we take care of everything.',
+      },
+      {
+        question: 'What documents do I need to provide for customs clearance?',
+        answer:
+          "Proc360 handles all customs clearance for you. You don't have to worry about providing any documentation.",
+      },
+      {
+        question: 'What happens if my shipment is delayed at customs?',
+        answer:
+          "Proc360 will manage any delays that might occur during the customs clearance process. We'll proactively communicate with you to keep you updated on the situation and work towards a swift resolution.",
+      },
+    ],
+  },
+  {
+    topic: 'Accounts and Privacy',
+    questions: [
+      {
+        question: 'How do I contact Proc360 for help?',
+        answer: `
+          <div>
+            <span>You have several ways to reach Proc360 for assistance:
+            </span>
+
+            <ol type="a" style="padding-left: 2rem;">
+              <li><strong>In-App Support:</strong> Look for the "Support" section within the Proc360 app.</li>
+
+              <li><strong>Social Media:</strong> Find and message Proc360 on your preferred social media platform. Consultant details are available on our platforms for easy contact.</li>
+
+              <li><strong>Website:</strong> Visit the Proc360 website for contact options.</li>
+
+              <li><strong>WhatsApp:</strong> Reach out to Proc360 via WhatsApp (if you have the number).</li>
+            </ol>
+          </di>`,
+      },
+      {
+        question: 'What are the terms and conditions of using Proc360?',
+        answer:
+          'You can find the Proc360 Terms and Conditions <a href="https://checkitprocure.com/products/proc360/legal/terms" target="_blank" style="color: #063982; text-decoration: underline;">here</a>. Please review them carefully.',
+      },
+      {
+        question: "What are Proc360's privacy practices?",
+        answer:
+          'Proc360 is committed to protecting your personal information. Our Privacy Policy outlines how we collect, use, and protect your data. You can find the Privacy Policy <a href="https://checkitprocure.com/products/proc360/legal/privacy" target="_blank" style="color: #063982; text-decoration: underline;">here</a>.',
+      },
+      {
+        question:
+          'What security measures does Proc360 take to protect my information?',
+        answer: `
+          <div>
+            <span>Proc360 implements robust security measures to safeguard your personal and financial information. These measures include:
+            </span>
+
+            <ol type="a" style="padding-left: 2rem;">
+              <li><strong>Encryption:</strong> Your sensitive data is encrypted during transmission and storage.</li>
+
+              <li><strong>Secure Payment Gateways:</strong> We partner with trusted payment gateways to ensure secure transactions.</li>
+            </ol>
+          </di>`,
+      },
+    ],
+  },
+  {
+    topic: 'Tracking Shipments',
+    questions: [
+      {
+        question: 'How do I track my order after it has been shipped?',
+        answer: `
+          <div>
+            <span>You can track both the procurement and shipping progress of your order from the Proc360 dashboard:
+            </span>
+            <ol type="a" style="padding-left: 2rem;">
+              <li>Go to the app and locate the shipping truck icon on the upper right corner of the dashboard.</li>
+
+              <li>Click the icon to navigate to the tracking page. You can choose to track an order or track a shipment. Tracking an order shows you the progress of your procurement order within China. While tracking a shipment shows the progress of your international shipments.</li>
+            </ol>
+          </div>
+        `,
+      },
+      {
+        question: 'Can I choose the shipping method for my order?',
+        answer:
+          'Yes, absolutely! You have the flexibility to select the shipping method that best suits your needs.',
+      },
+      {
+        question:
+          'What are the estimated shipping times for different destinations?',
+        answer: `
+          <div>
+            <span>Currently, Proc360 primarily serves Nigeria. Here are the estimated shipping times:
+            </span>
+            <ol type="a" style="padding-left: 2rem;">
+              <li><strong>Air Shipping:</strong> 7 days on average (may vary based on specific goods).</li>
+
+              <li><strong>Sea Shipping:</strong> 8-10 weeks on average (may vary).</li>
+            </ol>
+          </div>
+        `,
+      },
+      {
+        question: 'Does Proc360 handle customs clearance for imported goods?',
+        answer:
+          'Yes, Proc360 handles all customs clearance procedures on your behalf. You do not need to provide any additional documentation; we take care of everything.',
+      },
+      {
+        question: 'What documents do I need to provide for customs clearance?',
+        answer:
+          "Proc360 handles all customs clearance for you. You don't have to worry about providing any documentation.",
+      },
+      {
+        question: 'What happens if my shipment is delayed at customs?',
+        answer:
+          "Proc360 will manage any delays that might occur during the customs clearance process. We'll proactively communicate with you to keep you updated on the situation and work towards a swift resolution.",
+      },
+      {
+        question:
+          'Can I use Proc360 to import items from other countries besides China?',
+        answer:
+          "Currently, Proc360's primary focus is on importing goods from China. However, we may explore expanding to other countries in the future.",
+      },
+      {
+        question: 'How does Proc360 handle disputes with sellers?',
+        answer: `
+          <div>
+            <span>Proc360 takes customer satisfaction seriously. If you encounter a dispute with a seller, please follow these steps:
+            </span>
+            <ol type="a" style="padding-left: 2rem;">
+              <li><strong>Contact the Seller:</strong> First, attempt to resolve the issue directly with the seller.</li>
+
+              <li><strong>Proc360 Mediation:</strong> If you cannot reach a solution, contact Proc360 support for mediation. We'll work to understand the situation and find a fair resolution for both parties.</li>
+
+              <li><strong>Documentation:</strong> Be prepared to provide any relevant documentation (order details, communication with the seller).</li>
+            </ol>
+          </div>
+        `,
+      },
+      {
+        question: 'Can I insure my shipment through Proc360?',
+        answer:
+          'Yes, you can insure your shipment for added protection. Proc360 offers an insurance policy backed by Alipay, covering goods valued up to 5 million yuan.',
+      },
+    ],
+  },
+  {
+    topic: 'Referrals',
+    questions: [
+      {
+        question: 'How can I earn while using the app?',
+        answer:
+          "Proc360 offers a referral program that allows you to earn rewards by inviting friends and colleagues to sign up. You'll receive a percentage of their spending as credit in your wallet after they successfully place their first order. You'll earn a percentage of what your referrals spend on every order they make for the lifetime of their account.",
+      },
+      {
+        question: 'How do I get my referral code?',
+        answer:
+          'You can find your unique referral code by navigating to the "Referrals" section of the app. Go to the dashboard, click the hamburger menu, and select "Referrals." Here you can copy your referral code and view information about your referrals and earnings.',
+      },
+      {
+        question: "How can I see how much I've earned?",
+        answer:
+          'You can see how much you have earned in the referral earning section of your wallet.',
+      },
+    ],
+  },
+];
+
