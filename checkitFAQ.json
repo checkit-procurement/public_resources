@@ -157,6 +157,14 @@
       {
         "question": "How long does it take to consolidate my parcels?",
         "answer": "The consolidation process typically takes 2-4 working days, depending on the size and complexity of the order. Once your parcels are consolidated, you’ll receive a notification with the final weight and dimensions of your package, along with the updated shipping fees."
+      },
+      {
+        "question": "Can I pay the shipping fee using my wallet?",
+        "answer": "Currently, no. Shipping fees with Proc360 need to be paid after your goods arrive at their warehouse."
+      },
+      {
+        "question": "Can I make a procurement order and a consolidation order and have them ship together?",
+        "answer": "Yes. Even if you've already placed a separate procurement order, you can still create a consolidation order and request to combine it with your procurement order. Here's how: Make a request in the 'Special Request' section of the shipping form within the app asking that a certain order be packed together with the parcels you sent to your proc360 address. This way, you can combine your procurement order with additional items you purchased elsewhere into a single shipment."
       }
     ]
   },
@@ -186,6 +194,46 @@
       {
         "question": "Are shipments insured?",
         "answer": "Proc360 offers shipment insurance options during checkout. If you choose to insure your shipment, you’ll be covered in the event of loss or damage. Insurance is recommended for high-value shipments."
+      },
+      {
+        "question": "How long does it take for orders to get to Nigeria?",
+        "answer": "<p>When you order from China with Proc360, the delivery time depends on four key factors: Find full information <a style=\"text-decoration: underline;\" href=\"https://docs.google.com/document/u/0/d/19pGt7qotXk0ndOiRHgZhPj-vjo_tIdQFx0Cf40Ecrh0/edit\">here</a></p>"
+      },
+      {
+        "question": "What shipping methods does Proc360 offer?",
+        "answer": "<div><span>Proc360 currently offers two shipping methods:</span><ol type=\"a\" style=\"padding-left: 2rem;\"><li><span style=\"font-weight: bold;\">Air:</span> This is the fastest option, taking approximately 7 days for normal goods and 14 days for special goods</li><li><span style=\"font-weight: bold;\">Sea (Ocean):</span> This is a more economical option, but takes longer</li></ol></div>"
+      },
+      {
+        "question": "How much does shipping cost?",
+        "answer": "<div><span>Shipping costs depend on the chosen method (air or sea) and the weight/volume of your order.</span><ol type=\"a\" style=\"padding-left: 2rem;\"><li><span style=\"font-weight: bold;\">Air:</span> The average cost for air shipping is $8 per kilogram, but this can vary depending on weight and destination.</li><li><span style=\"font-weight: bold;\">Sea (Ocean):</span> Costs are based on cubic meter volume, typically starting around $400 per cubic meter. You can ship as low as 0.1cbm for $40.</li></ol><span>We recommend using the shipping cost calculator for the most accurate estimate for your specific order.</span></div>"
+      },
+      {
+        "question": "What happens if my package gets damaged during shipping?",
+        "answer": "<div><span>If your package is damaged during shipping, Proc360 will assess the situation and offer a solution based on the severity of the damage:</span><ol type=\"a\" style=\"padding-left: 2rem;\"><li><span style=\"font-weight: bold;\">Minor Damage:</span> If the damage is minor and does not affect the functionality or usability of the item, Proc360 may offer a partial refund or discount on future purchases</li><li><span style=\"font-weight: bold;\">Major Damage:</span> If the damage is significant and renders the item unusable, Proc360 will provide a full refund for the value of the damaged item.</li></ol><span>To ensure your packages are protected during transit, Proc360 takes great care in packaging all items securely. In addition, you have the option to purchase shipping insurance through Proc360 for added peace of mind.</span></div>"
+      },
+      {
+        "question": "Is it a must to add special requests when filling out shipping information?",
+        "answer": "No, it's not mandatory to add special requests when filling out shipping information. The \"Special Requests\" section is available if you have any specific instructions or preferences regarding packaging, labeling, or handling of your shipment."
+      },
+      {
+        "question": "Are there restricted items for import through Proc360?",
+        "answer": "<div><span>Yes, there are certain items restricted from import through Proc360. A list of restricted items can be found below:</span><ol type=\"a\" style=\"padding-left: 2rem;\"><li>Any items containing battery (rechargeable battery or disposable batteries)</li><li>Food and other edible items such as chocolates, herbs  etc</li> <li>Any item in powdery form such as sweeteners, nail glitters etc</li> <li>Medicine and supplements such as vitamins, ointments etc</li> <li>FAny items in Liquid  form or containing liquids such as cosmetics, beauty products, oils, glue etc</li> <li>Any items made of fragile materials like glass</li> </ol><span>Restricted items can be shipped but have to be shipped either using the special goods air option or sea shipping option</span></div>"
+      },
+      {
+        "question": "Can I choose the shipping method for my order?",
+        "answer": "Yes, absolutely! You have the flexibility to select the shipping method that best suits your needs."
+      },
+      {
+        "question": "Does Proc360 handle customs clearance for imported goods?",
+        "answer": "Yes, Proc360 handles all customs clearance procedures on your behalf. You do not need to provide any additional documentation; we take care of everything."
+      },
+      {
+        "question": "What documents do I need to provide for customs clearance?",
+        "answer": "Proc360 handles all customs clearance for you. You don't have to worry about providing any documentation"
+      },
+      {
+        "question": "What happens if my shipment is delayed at customs?",
+        "answer": "Proc360 will manage any delays that might occur during the customs clearance process. We'll proactively communicate with you to keep you updated on the situation and work towards a swift resolution."
       }
     ]
   },
@@ -207,6 +255,80 @@
       {
         "question": "Does Proc360 share my data with third parties?",
         "answer": "No, Proc360 does not sell or share your data with third parties without your consent, except as required by law."
+      },
+      {
+        "question": "How do I contact Proc360 for help?",
+        "answer": "<div><span>YYou have several ways to reach Proc360 for assistance:</span><ol type=\"a\" style=\"padding-left: 2rem;\"><li><span style=\"font-weight: bold;\">In-App Support:</span> Look for the \"Support\" section within the Proc360 app.</li><li><span style=\"font-weight: bold;\">Social Media:</span> Find and message Proc360 on your preferred social media platform. Consultant details are available on our platforms for easy contact.</li> <li><span style=\"font-weight: bold;\">WhatsApp: </span> Reach out to Proc360 via WhatsApp (if you have the number).</li> </ol></div>"
+      },
+      {
+        "question": "What are the terms and conditions of using Proc360?",
+        "answer": "<p> You can find the Proc360 Terms and Conditions attached in a link <a style=\"text-decoration: underline;\" href=\"https://checkitprocure.com/products/proc360/legal/terms\">here</a> Please review them carefully.</p>"
+      },
+      {
+        "question": "What are Proc360's privacy practices?",
+        "answer": "<p> Proc360 is committed to protecting your personal information. Our Privacy Policy outlines how we collect, use, and protect your data. You can find the Privacy Policy <a style=\"text-decoration: underline;\" href=\"https://checkitprocure.com/products/proc360/legal/terms\">here</a></p>"
+      },
+      {
+        "question": "What security measures does Proc360 take to protect my information?",
+        "answer": "<div><span>Proc360 implements robust security measures to safeguard your personal and financial information. These measures include:</span><ol type=\"a\" style=\"padding-left: 2rem;\"><li><span style=\"font-weight: bold;\">Encryption: </span> Your sensitive data is encrypted during transmission and storage.</li><li><span style=\"font-weight: bold;\">Secure Payment Gateways:</span>  We partner with trusted payment gateways to ensure secure transactions.</li></ol></div>"
+      }
+    ]
+  },
+  {
+    "topic": "Tracking Shipments",
+    "questions": [
+      {
+        "question": "How do I track my order after it has been shipped? ",
+        "answer": "<div><span>You can track your order within the Proc360 app:</span><ol type=\"a\" style=\"padding-left: 2rem;\"><li>Go to the app and locate the shipping truck icon on the upper right corner of the dashboard.</li><li>Click the icon to navigate to the tracking page. You can choose to track an order or track a shipment. Tracking an order shows you the progress of your procurement order within China. While tracking a shipment shows the progress of your international shipments.</li></ol></div>"
+      },
+      {
+        "question": "Can I choose the shipping method for my order?",
+        "answer": "Yes, absolutely! You have the flexibility to select the shipping method that best suits your needs."
+      },
+      {
+        "question": "What are the estimated shipping times for different destinations?",
+        "answer": "<div>Currently, Proc360 primarily serves Nigeria. Here are the estimated shipping times:<ol type=\"a\" style=\"padding-left: 2rem;\"><li><span style=\"font-weight: bold;\">Air Shipping:</span> 7 days on average (may vary based on specific goods).</li><li><span style=\"font-weight: bold;\">Sea Shipping:</span> 8-10 weeks on average (may vary).</li></ol></div>"
+      },
+      {
+        "question": "Does Proc360 handle customs clearance for imported goods?",
+        "answer": "Yes, Proc360 handles all customs clearance procedures on your behalf. You do not need to provide any additional documentation; we take care of everything."
+      },
+      {
+        "question": "What documents do I need to provide for customs clearance?",
+        "answer": "Proc360 handles all customs clearance for you. You don't have to worry about providing any documentation."
+      },
+      {
+        "question": "What happens if my shipment is delayed at customs?",
+        "answer": "Proc360 will manage any delays that might occur during the customs clearance process. We'll proactively communicate with you to keep you updated on the situation and work towards a swift resolution."
+      },
+      {
+        "question": "Can I use Proc360 to import items from other countries besides China?",
+        "answer": "Currently, Proc360's primary focus is on importing goods from China. However, we may explore expanding to other countries in the future."
+      },
+      {
+        "question": "How does Proc360 handle disputes with sellers?",
+        "answer": "<div>Proc360 takes customer satisfaction seriously. If you encounter a dispute with a seller, please follow these steps:<ol type=\"a\" style=\"padding-left: 2rem;\"><li><span style=\"font-weight: bold;\">Contact the Seller:</span> First, attempt to resolve the issue directly with the seller.</li><li><span style=\"font-weight: bold;\">Proc360 Mediation:</span> If you cannot reach a solution, contact Proc360 support for mediation. We'll work to understand the situation and find a fair resolution for both parties.</li><li><span style=\"font-weight: bold;\">Documentation:</span> Be prepared to provide any relevant documentation (order details, communication with the seller).</li></ol></div>"
+      },
+      {
+        "question": "Can I insure my shipment through Proc360?",
+        "answer": "Yes, you can insure your shipment for added protection. Proc360 offers an insurance policy backed by Alipay, covering goods valued up to 5 million yuan."
+      }
+    ]
+  },
+  {
+    "topic": "Referral",
+    "questions": [
+      {
+        "question": "How can I earn while using the app?",
+        "answer": "Proc360 offers a referral program that allows you to earn rewards by inviting friends and colleagues to sign up. You'll receive a percentage of their spending as credit in your wallet after they successfully place their first order. You'll earn a percentage of what your referrals spend on every order they make for the lifetime of their account."
+      },
+      {
+        "question": "How do I get my referral code?",
+        "answer": "You can find your unique referral code by navigating to the 'Referrals' section of the app. Go to the dashboard, click the hamburger menu, and select 'Referrals.' Here you can copy your referral code and view information about your referrals and earnings."
+      },
+      {
+        "question": "How can I see how much I’ve earned?",
+        "answer": "You can see how much you have earned in the referral earning section of your wallet."
       }
     ]
   }
