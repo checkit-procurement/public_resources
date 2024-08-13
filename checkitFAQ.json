@@ -44,10 +44,10 @@
       },
       {
         "question": "Can I search for items on the Proc360 app?",
-        "answer": "Proc360 doesn’t have a search function for items for now. This feature will be added soon. You can browse through Chinese online stores like 1688.com, Alibaba, Aliexpress, Pinduoduo, etc. to find what you are looking for. Or if you see a picture If you need help finding something specific, you can place a custom order."
+        "answer": "Proc360 doesn't have a search function for items for now. This feature will be added soon. You can browse through Chinese online stores like 1688.com, Alibaba, Aliexpress, Pinduoduo, etc. to find what you are looking for. Or if you see a picture If you need help finding something specific, you can place a custom order."
       },
       {
-        "question": "Can I shop from Proc360 or it’s just for payment?",
+        "question": "Can I shop from Proc360 or it's just for payment?",
         "answer": "Yes you can shop from Proc360 by uploading pictures or links of what you want to buy."
       },
       {
@@ -172,7 +172,7 @@
       },
       {
         "question": "How long does it take to consolidate my parcels?",
-        "answer": "The consolidation process typically takes 2-4 working days, depending on the size and complexity of the order. Once your parcels are consolidated, you’ll receive a notification with the final weight and dimensions of your package, along with the updated shipping fees."
+        "answer": "The consolidation process typically takes 2-4 working days, depending on the size and complexity of the order. Once your parcels are consolidated, you'll receive a notification with the final weight and dimensions of your package, along with the updated shipping fees."
       },
       {
         "question": "Can I pay the shipping fee using my wallet?",
@@ -209,7 +209,7 @@
       },
       {
         "question": "Are shipments insured?",
-        "answer": "Proc360 offers shipment insurance options during checkout. If you choose to insure your shipment, you’ll be covered in the event of loss or damage. Insurance is recommended for high-value shipments."
+        "answer": "Proc360 offers shipment insurance options during checkout. If you choose to insure your shipment, you'll be covered in the event of loss or damage. Insurance is recommended for high-value shipments."
       },
       {
         "question": "How long does it take for orders to get to Nigeria?",
@@ -343,7 +343,7 @@
         "answer": "You can find your unique referral code by navigating to the 'Referrals' section of the app. Go to the dashboard, click the hamburger menu, and select 'Referrals.' Here you can copy your referral code and view information about your referrals and earnings."
       },
       {
-        "question": "How can I see how much I’ve earned?",
+        "question": "How can I see how much I've earned?",
         "answer": "You can see how much you have earned in the referral earning section of your wallet."
       }
     ]
