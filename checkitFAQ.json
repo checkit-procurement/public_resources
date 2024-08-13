@@ -41,6 +41,22 @@
       {
         "question": "Can I leave a review for Proc360's services?",
         "answer": "Absolutely! Proc360 appreciates your feedback. You can leave a review [Provide link to review platform]."
+      },
+      {
+        "question": "Can I search for items on the Proc360 app?",
+        "answer": "Proc360 doesn’t have a search function for items for now. This feature will be added soon. You can browse through Chinese online stores like 1688.com, Alibaba, Aliexpress, Pinduoduo, etc. to find what you are looking for. Or if you see a picture If you need help finding something specific, you can place a custom order."
+      },
+      {
+        "question": "Can I shop from Proc360 or it’s just for payment?",
+        "answer": "Yes you can shop from Proc360 by uploading pictures or links of what you want to buy."
+      },
+      {
+        "question": "Is my money secure/protected when using Proc360?",
+        "answer": "Absolutely! We have secure processes."
+      },
+      {
+        "question": "Can I buy phones or batteries?",
+        "answer": "<div>Yes, Proc360 supports shipping all types of restricted goods, it just takes some more time and documentation. See full list of restricted goods supported by Proc360 <a href=\"https://blog.checkitprocure.com/china-to-nigeria-shipping-a-complete-guide-to-prohibited-and-restricted-goods-by-proc360\"></a> </div>"
       }
     ]
   },
@@ -217,7 +233,7 @@
       },
       {
         "question": "Are there restricted items for import through Proc360?",
-        "answer": "<div><span>Yes, there are certain items restricted from import through Proc360. A list of restricted items can be found below:</span><ol type=\"a\" style=\"padding-left: 2rem;\"><li>Any items containing battery (rechargeable battery or disposable batteries)</li><li>Food and other edible items such as chocolates, herbs  etc</li> <li>Any item in powdery form such as sweeteners, nail glitters etc</li> <li>Medicine and supplements such as vitamins, ointments etc</li> <li>FAny items in Liquid  form or containing liquids such as cosmetics, beauty products, oils, glue etc</li> <li>Any items made of fragile materials like glass</li> </ol><span>Restricted items can be shipped but have to be shipped either using the special goods air option or sea shipping option</span></div>"
+        "answer": "<div><span>Yes, there are certain items restricted from import through Proc360. A list of restricted items can be found below:</span><ol type=\"a\" style=\"padding-left: 2rem;\"><li>Any items containing battery (rechargeable battery or disposable batteries)</li><li>Food and other edible items such as chocolates, herbs  etc</li> <li>Any item in powdery form such as sweeteners, nail glitters etc</li> <li>Medicine and supplements such as vitamins, ointments etc</li> <li>Any items in Liquid  form or containing liquids such as cosmetics, beauty products, oils, glue etc</li> <li>Any items made of fragile materials like glass</li> </ol><span>Restricted items can be shipped but have to be shipped either using the special goods air option or sea shipping option. See full list of restricted goods supported by Proc360 <a href=\"https://blog.checkitprocure.com/china-to-nigeria-shipping-a-complete-guide-to-prohibited-and-restricted-goods-by-proc360\"></a></span></div>"
       },
       {
         "question": "Can I choose the shipping method for my order?",
